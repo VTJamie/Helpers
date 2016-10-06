@@ -7,4 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Jamieson Abbott"]  
   s.files       = ["lib/jamie-helpers.rb"]
   s.license       = 'MIT'
+  s.add_development_dependency 'rspec'
+  s.add_development_dependency 'selenium-webdriver'
 end
