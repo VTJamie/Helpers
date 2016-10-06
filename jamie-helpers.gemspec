@@ -5,6 +5,6 @@ Gem::Specification.new do |s|
   s.summary     = "Helpers"
   s.description = "Helper gem"
   s.authors     = ["Jamieson Abbott"]  
-  s.files       = ["test/jamie-helpers.rb"]
+  s.files       = ["lib/jamie-helpers.rb"]
   s.license       = 'MIT'
 end
